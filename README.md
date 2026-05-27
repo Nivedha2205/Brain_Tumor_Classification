@@ -52,12 +52,6 @@ I cropped and augmented the images before building, compiling, training, and eva
 In the end, I could validate a test image passed through the model.
 
 ![validation](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/valid-img.png)
-
-## Author<a name="author"></a>
-* [Nazia N.](https://github.com/nazianafis)
-
-## Licensing<a name="licensing"></a>
-
 * The dataset is available under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
 * Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
